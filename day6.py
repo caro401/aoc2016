@@ -1,7 +1,5 @@
 from collections import defaultdict
-import operator
 
-ALPHABET = "abcdefghijklmnopqrstuvwxyz"
 def decode(filename, mode):
     
     with open(filename) as fin:
