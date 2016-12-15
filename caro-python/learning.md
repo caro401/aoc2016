@@ -6,3 +6,8 @@ I'm still quite new to this whole code thing, and have a lot to learn about Pyth
 
 - Python doesn't have a switch-case construct. You should use `if... elif... elif` instead. See [the Python documentation](https://docs.python.org/3/tutorial/controlflow.html#if-statements) and [this PEP](https://www.python.org/dev/peps/pep-3103/)
 - Code is not that scary really. Although I reserve judgement on this until I have made it to day 25...
+
+
+### Misc
+
+- `git add -u` when you have deleted things! Hence the mess in the commit history when I forgot that I needed to do that
